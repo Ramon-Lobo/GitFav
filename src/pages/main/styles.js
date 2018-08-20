@@ -32,7 +32,6 @@ const styles = StyleSheet.create({
   form: {
     marginTop: metrics.baseMargin * 2,
     alignSelf: 'stretch',
-    backgroundColor: colors.black,
   },
 
   error: {
